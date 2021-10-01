@@ -10,6 +10,7 @@ AMGPRS repo
 * [Graph Neural Networks in Recommender Systems: A Survey](https://arxiv.org/pdf/2011.02260.pdf)
 * [LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/pdf/2002.02126.pdf)
 * [Group-Aware Long- and Short-Term Graph Representation Learning for Sequential Group Recommendation](https://weizhangltt.github.io/paper/SIGIR20-Wang.pdf)
+* [Consistency-Aware Recommendation for User-Generated Item List Continuation](https://arxiv.org/pdf/1912.13031.pdf)
 
 ## Datasets
 * [Melon Playlist Dataset](https://mtg.github.io/melon-playlist-dataset/)
