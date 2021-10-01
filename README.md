@@ -1,6 +1,11 @@
 # awesome-music-group-playlist-recommender-system
 AMGPRS repo
 
+Spotify recently came with a new feature called ‘Blend’, which takes in two Spotify accounts, and creates a playlist based on both tastes. However, this feature is really bad, the recommendations are bad. It seems like they just take some songs from one account, and some songs from the other account, and called it a recommended mix.
+We want to create a model that does this recommendation for two or more people. Recommending them songs based on their shared interests or similarities.
+There is a lot of public data. We already found a lot of big datasets of Spotify playlist data, taste and genre data, similarity data, etc.
+Some platforms exist that implement a very naïve approach, where only artist similarities are used. We want to create an actual graph mining framework with lots of different types of connections and weights
+
 ## Papers
 
 * [Beyond Next Item Recommendation: Recommending and Evaluating List of Sequences](https://arxiv.org/pdf/2008.13281.pdf)
