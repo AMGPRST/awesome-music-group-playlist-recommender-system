@@ -22,6 +22,7 @@ Some platforms exist that implement a very naïve approach, where only artist si
 * [Next-item Recommendation with Sequential Hypergraphs (2020)](https://dl.acm.org/doi/pdf/10.1145/3397271.3401133)
 * [CAME: Content- and Context-Aware Music Embedding for Recommendation (2020)](https://ieeexplore.ieee.org/abstract/document/9067038)
 * [Music2Vec: Music Genre Classification and Recommendation System (2020)](https://ieeexplore.ieee.org/abstract/document/9297559)
+* [Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation (2021)](https://arxiv.org/pdf/2109.04200.pdf)
 
 
 ## Datasets
