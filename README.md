@@ -18,3 +18,6 @@ AMGPRS repo
 * [FMA: A Dataset For Music Analysis](https://github.com/mdeff/fma)
 * [Million Song Dataset](http://millionsongdataset.com/)
 * [The Last.fm Dataset](http://millionsongdataset.com/lastfm/)
+
+## Recommendation platforms
+* [Boil The Frog](http://boilthefrog.playlistmachinery.com/)
