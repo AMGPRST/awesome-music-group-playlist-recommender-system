@@ -16,6 +16,8 @@ Some platforms exist that implement a very naïve approach, where only artist si
 * [LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/pdf/2002.02126.pdf)
 * [Group-Aware Long- and Short-Term Graph Representation Learning for Sequential Group Recommendation](https://weizhangltt.github.io/paper/SIGIR20-Wang.pdf)
 * [Consistency-Aware Recommendation for User-Generated Item List Continuation](https://arxiv.org/pdf/1912.13031.pdf)
+* [Graph Neural Netwrok with Interaction Pattern for Group Recommendation](https://arxiv.org/abs/2109.11345)
+* [Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation](https://arxiv.org/pdf/2109.04200.pdf)
 
 ## Datasets
 * [Melon Playlist Dataset](https://mtg.github.io/melon-playlist-dataset/)
