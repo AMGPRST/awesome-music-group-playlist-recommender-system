@@ -8,16 +8,16 @@ Some platforms exist that implement a very naïve approach, where only artist si
 
 ## Papers
 
-* [Beyond Next Item Recommendation: Recommending and Evaluating List of Sequences](https://arxiv.org/pdf/2008.13281.pdf)
-* [Playlist Prediction via Metric Embedding](https://dl.acm.org/doi/pdf/10.1145/2339530.2339643)
-* [How Powerful is Graph Convolution for Recommendation](https://arxiv.org/pdf/2108.07567.pdf)
-* [GAME: Learning Graphical and Attentive Multi-view Embeddings for Occasional Group Recommendation](https://dl.acm.org/doi/epdf/10.1145/3397271.3401064)
-* [Graph Neural Networks in Recommender Systems: A Survey](https://arxiv.org/pdf/2011.02260.pdf)
-* [LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/pdf/2002.02126.pdf)
-* [Group-Aware Long- and Short-Term Graph Representation Learning for Sequential Group Recommendation](https://weizhangltt.github.io/paper/SIGIR20-Wang.pdf)
-* [Consistency-Aware Recommendation for User-Generated Item List Continuation](https://arxiv.org/pdf/1912.13031.pdf)
-* [Graph Neural Netwrok with Interaction Pattern for Group Recommendation](https://arxiv.org/abs/2109.11345)
-* [Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation](https://arxiv.org/pdf/2109.04200.pdf)
+* [Beyond Next Item Recommendation: Recommending and Evaluating List of Sequences (2020)](https://arxiv.org/pdf/2008.13281.pdf)
+* [Playlist Prediction via Metric Embedding (2012)](https://dl.acm.org/doi/pdf/10.1145/2339530.2339643)
+* [How Powerful is Graph Convolution for Recommendation (2021)](https://arxiv.org/pdf/2108.07567.pdf)
+* [GAME: Learning Graphical and Attentive Multi-view Embeddings for Occasional Group Recommendation (2020)](https://dl.acm.org/doi/pdf/10.1145/3397271.3401064)
+* [Graph Neural Networks in Recommender Systems: A Survey (2021)](https://arxiv.org/pdf/2011.02260.pdf)
+* [LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation (2020)](https://arxiv.org/pdf/2002.02126.pdf)
+* [Group-Aware Long- and Short-Term Graph Representation Learning for Sequential Group Recommendation (2020)](https://weizhangltt.github.io/paper/SIGIR20-Wang.pdf)
+* [Consistency-Aware Recommendation for User-Generated Item List Continuation (2020)](https://arxiv.org/pdf/1912.13031.pdf)
+* [Graph Neural Netwrok with Interaction Pattern for Group Recommendation (2021)](https://arxiv.org/pdf/2109.11345.pdf)
+* [Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation (2021)](https://arxiv.org/pdf/2109.04200.pdf)
 
 ## Datasets
 * [Melon Playlist Dataset](https://mtg.github.io/melon-playlist-dataset/)
