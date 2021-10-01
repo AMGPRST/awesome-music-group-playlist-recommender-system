@@ -18,6 +18,10 @@ Some platforms exist that implement a very naïve approach, where only artist si
 * [Consistency-Aware Recommendation for User-Generated Item List Continuation (2020)](https://arxiv.org/pdf/1912.13031.pdf)
 * [Graph Neural Netwrok with Interaction Pattern for Group Recommendation (2021)](https://arxiv.org/pdf/2109.11345.pdf)
 * [Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation (2021)](https://arxiv.org/pdf/2109.04200.pdf)
+* [Time Matters: Sequential Recommendation with Complex Temporal Information (2020)](https://dl.acm.org/doi/pdf/10.1145/3397271.3401154)
+* [Next-item Recommendation with Sequential Hypergraphs (2020)](https://dl.acm.org/doi/pdf/10.1145/3397271.3401133)
+
+
 
 ## Datasets
 * [Melon Playlist Dataset](https://mtg.github.io/melon-playlist-dataset/)
