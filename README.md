@@ -9,9 +9,11 @@ AMGPRS repo
 * [GAME: Learning Graphical and Attentive Multi-view Embeddings for Occasional Group Recommendation](https://dl.acm.org/doi/epdf/10.1145/3397271.3401064)
 * [Graph Neural Networks in Recommender Systems: A Survey](https://arxiv.org/pdf/2011.02260.pdf)
 * [LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/pdf/2002.02126.pdf)
+* [Group-Aware Long- and Short-Term Graph Representation Learning for Sequential Group Recommendation](https://weizhangltt.github.io/paper/SIGIR20-Wang.pdf)
 
 ## Datasets
 * [Melon Playlist Dataset](https://mtg.github.io/melon-playlist-dataset/)
 * [Spotify Million Playlist Dataset Challenge](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge)
 * [FMA: A Dataset For Music Analysis](https://github.com/mdeff/fma)
 * [Million Song Dataset](http://millionsongdataset.com/)
+* [The Last.fm Dataset](http://millionsongdataset.com/lastfm/)
