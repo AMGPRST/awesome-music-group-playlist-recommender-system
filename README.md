@@ -1,5 +1,5 @@
 # awesome-music-group-playlist-recommender-system
-AWGPRS repo
+AMGPRS repo
 
 Papers:
 
