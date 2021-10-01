@@ -8,4 +8,5 @@ Papers:
 * [How Powerful is Graph Convolution for Recommendation](https://arxiv.org/pdf/2108.07567.pdf)
 * [GAME: Learning Graphical and Attentive Multi-view Embeddings for Occasional Group Recommendation](https://dl.acm.org/doi/epdf/10.1145/3397271.3401064)
 * [Graph Neural Networks in Recommender Systems: A Survey](https://arxiv.org/pdf/2011.02260.pdf)
+* [LightGCN:  Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/pdf/2002.02126.pdf)
 
