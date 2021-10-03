@@ -36,8 +36,7 @@ Some platforms exist that implement a very naïve approach, where only artist si
 * [Melon Playlist Dataset](https://mtg.github.io/melon-playlist-dataset/)
 * [Spotify Million Playlist Dataset Challenge](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge)
 * [FMA: A Dataset For Music Analysis](https://github.com/mdeff/fma)
-* [Million Song Dataset](http://millionsongdataset.com/)
-* [The Last.fm Dataset](http://millionsongdataset.com/lastfm/)
+* [Million Song Dataset (Last.fm)](http://millionsongdataset.com/)
 
 ## Recommendation platforms
 * [Boil The Frog](http://boilthefrog.playlistmachinery.com/)
