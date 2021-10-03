@@ -43,3 +43,5 @@ Some platforms exist that implement a very naïve approach, where only artist si
 ## Recommendation platforms
 * [Boil The Frog](http://boilthefrog.playlistmachinery.com/)
 * [Obscurify Music](https://obscurifymusic.com/home)
+* [MusicRoamer](https://www.musicroamer.com/player#)
+* [MagicPlaylist](https://magicplaylist.co/#/?_k=tnz4b5)
