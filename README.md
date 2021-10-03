@@ -7,7 +7,7 @@ Some platforms exist that implement a very naïve approach, where only artist si
 
 ## Related works
 * [Graph Neural Networks in Recommender Systems: A Survey (2021)](https://arxiv.org/pdf/2011.02260.pdf)
-* [Music Recommendations: Algorithms, Practical Challenges and Applications (2018) (https://www.researchgate.net/publication/329392345_Music_Recommendations_Algorithms_Practical_Challenges_and_Applications)
+* [Music Recommendations: Algorithms, Practical Challenges and Applications (2018)](https://www.researchgate.net/publication/329392345_Music_Recommendations_Algorithms_Practical_Challenges_and_Applications)
 
 ### Recommendation with graphs
 * [How Powerful is Graph Convolution for Recommendation (2021)](https://arxiv.org/pdf/2108.07567.pdf)
