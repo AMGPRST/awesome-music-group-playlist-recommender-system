@@ -25,7 +25,8 @@ Some platforms exist that implement a very naïve approach, where only artist si
 * [Graph Neural Netwrok with Interaction Pattern for Group Recommendation (2021)](https://arxiv.org/pdf/2109.11345.pdf)
 * [Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation (2021)](https://arxiv.org/pdf/2109.04200.pdf)
 
-### Music embedding
+### Music recommendatio
+* [Sequential Music Recommendations for Groups by Balancing User Satisfaction (2012)](http://ceur-ws.org/Vol-997/grouprs2013_paper_2.pdf)
 * [Playlist Prediction via Metric Embedding (2012)](https://dl.acm.org/doi/pdf/10.1145/2339530.2339643)
 * [CAME: Content- and Context-Aware Music Embedding for Recommendation (2020)](https://ieeexplore.ieee.org/abstract/document/9067038)
 * [Music2Vec: Music Genre Classification and Recommendation System (2020)](https://ieeexplore.ieee.org/abstract/document/9297559)
