@@ -29,7 +29,7 @@ Some platforms exist that implement a very naïve approach, where only artist si
 * [Playlist Prediction via Metric Embedding (2012)](https://dl.acm.org/doi/pdf/10.1145/2339530.2339643)
 * [CAME: Content- and Context-Aware Music Embedding for Recommendation (2020)](https://ieeexplore.ieee.org/abstract/document/9067038)
 * [Music2Vec: Music Genre Classification and Recommendation System (2020)](https://ieeexplore.ieee.org/abstract/document/9297559)
-* [Quick Lists: Enriched Playlist Embeddings for Future Playlist Recommendation](https://arxiv.org/pdf/2006.12382.pdf)
+* [Quick Lists: Enriched Playlist Embeddings for Future Playlist Recommendation (2020)](https://arxiv.org/pdf/2006.12382.pdf)
 
 ## Datasets
 * [Melon Playlist Dataset](https://mtg.github.io/melon-playlist-dataset/)
