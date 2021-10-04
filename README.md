@@ -25,6 +25,7 @@ Some platforms exist that implement a very naïve approach, where only artist si
 * [Group-Aware Long- and Short-Term Graph Representation Learning for Sequential Group Recommendation (2020)](https://weizhangltt.github.io/paper/SIGIR20-Wang.pdf)
 * [Graph Neural Netwrok with Interaction Pattern for Group Recommendation (2021)](https://arxiv.org/pdf/2109.11345.pdf)
 * [Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation (2021)](https://arxiv.org/pdf/2109.04200.pdf)
+* [GroupIM: A Mutual Information Maximization Framework for Neural Group Recommendation (2020)](https://arxiv.org/pdf/2006.03736.pdf)
 
 ### Music recommendation
 * [MUSICFX: An Arbiter of Group Preferences for Computer Supported Collaborative Workouts (1998)](https://www.cs.unm.edu/~dlchao/radio/MusicFX.pdf)
