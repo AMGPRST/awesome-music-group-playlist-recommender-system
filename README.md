@@ -6,6 +6,7 @@ There is a lot of public data. We already found a lot of big datasets of Spotify
 Some platforms exist that implement a very naïve approach, where only artist similarities are used. We want to create an actual graph mining framework with lots of different types of connections and weights.
 
 ## Related works
+https://github.com/ShopRunner/collie
 * [Graph Neural Networks in Recommender Systems: A Survey (2021)](https://arxiv.org/pdf/2011.02260.pdf)
 * [Music Recommendations: Algorithms, Practical Challenges and Applications (2018)](https://www.researchgate.net/publication/329392345_Music_Recommendations_Algorithms_Practical_Challenges_and_Applications)
 
